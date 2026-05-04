@@ -476,7 +476,7 @@ wss.on('connection', (twilioWs, req) => {
                   parts: [
                     {
                       text:
-                        'Ha comenzado la llamada. Inicia exactamente el protocolo de evaluación desde el principio.',
+                        'Ha comenzado la llamada. Empieza con la primera intervención obligatoria del protocolo de evaluación. No saludes de otra manera.',
                     },
                   ],
                 },
