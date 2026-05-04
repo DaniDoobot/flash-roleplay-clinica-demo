@@ -302,7 +302,7 @@ wss.on('connection', (twilioWs, req) => {
                  * Voz fija para la simulación.
                  * Puedes cambiarla después si quieres probar otras.
                  */
-                voiceName: 'Charon',
+                voiceName: 'Algenib',
               },
             },
           },
