@@ -1,0 +1,5 @@
+.env
+node_modules
+funciona.txt
+.DS_Store
+index.original.js
